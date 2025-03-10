@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "/Users/orange/Desktop/hyiAI/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/orange/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/orange/Desktop/hyiAI/android/app/.cxx/Debug/3m666z2v/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/orange/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/orange/Desktop/hyiAI/android/app/.cxx/Debug/3m666z2v/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86",
+      "output": "/Users/orange/Desktop/hyiAI/android/app/build/intermediates/cxx/Debug/3m666z2v/obj/x86/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/orange/.gradle/caches/8.12/transforms/3202214a6bccf42e7aed0f3fbbf2dffd/transformed/jetified-fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/orange/.gradle/caches/8.12/transforms/31eeadb42fc2a3d6371f85e1b830119d/transformed/jetified-react-android-0.78.0-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/orange/.gradle/caches/8.12/transforms/31eeadb42fc2a3d6371f85e1b830119d/transformed/jetified-react-android-0.78.0-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    }
+  }
+}

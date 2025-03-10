@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Metro bundler cache
+metro-bundler-cache/
+# React Native packager cache
+packager-cache/
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.swn
+*.DS_Store
+
+# Build folders
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/.DS_Store
+ios/.idea/
+ios/build/
+ios/.xcworkspace/
+ios/DerivedData/
+
+# IDE files
+.vscode/
+.idea/
+
+# Env files (Sensitive data)
+.env
+.env.*
